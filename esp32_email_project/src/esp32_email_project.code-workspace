@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "hc-sr04",
+			"path": "../../../../../../../work/esp32_study/hc-sr04"
+		}
+	],
+	"settings": {}
+}
